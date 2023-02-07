@@ -1,0 +1,145 @@
+Leaking bit 0: +++++++
+Leaking bit 1: 
+Leaking bit 2: 
+Leaking bit 3: 
+Leaking bit 4: 
+Leaking bit 5: 
+Leaking bit 6: +++++
+Leaking bit 7: 
+Leaking bit 8: ++++++
+Leaking bit 9: ++++++++
+Leaking bit 10: 
+Leaking bit 11: 
+Leaking bit 12: ++++++++
+Leaking bit 13: +++++++
+Leaking bit 14: ++++++++
+Leaking bit 15: 
+Leaking bit 16: ++++++
+Leaking bit 17: 
+Leaking bit 18: ++++++++
+Leaking bit 19: 
+Leaking bit 20: +++++++++
+Leaking bit 21: ++++++
+Leaking bit 22: ++++++++
+Leaking bit 23: 
+Leaking bit 24: 
+Leaking bit 25: 
+Leaking bit 26: 
+Leaking bit 27: 
+Leaking bit 28: +++++
+Leaking bit 29: +++++++++
+Leaking bit 30: ++++++++
+Leaking bit 31: 
+Leaking bit 32: +++++++
+Leaking bit 33: 
+Leaking bit 34: ++++
+Leaking bit 35: 
+Leaking bit 36: 
+Leaking bit 37: ++++++++++
+Leaking bit 38: +++++++
+Leaking bit 39: 
+Leaking bit 40: 
+Leaking bit 41: +++++++++
+Leaking bit 42: 
+Leaking bit 43: 
+Leaking bit 44: ++++++++
+Leaking bit 45: +++++++++
+Leaking bit 46: ++++++++
+Leaking bit 47: 
+Leaking bit 48: +++++++
+Leaking bit 49: ++++++
+Leaking bit 50: +++++++++
+Leaking bit 51: +++++++
+Leaking bit 52: +++++++++
+Leaking bit 53: 
+Leaking bit 54: ++++++++++
+Leaking bit 55: 
+Leaking bit 56: ++++++++++
+Leaking bit 57: +++++++++
+Leaking bit 58: 
+Leaking bit 59: 
+Leaking bit 60: +++++++
+Leaking bit 61: +++++++
+Leaking bit 62: ++++++++
+Leaking bit 63: 
+Leaking bit 64: +++++
+Leaking bit 65: 
+Leaking bit 66: +++++++
+Leaking bit 67: 
+Leaking bit 68: 
+Leaking bit 69: +++++++++
+Leaking bit 70: ++++++
+Leaking bit 71: 
+Leaking bit 72: +++++++
+Leaking bit 73: +++++++
+Leaking bit 74: 
+Leaking bit 75: 
+Leaking bit 76: 
+Leaking bit 77: ++++++
+Leaking bit 78: ++++++++
+Leaking bit 79: 
+Leaking bit 80: 
+Leaking bit 81: +++++++++
+Leaking bit 82: 
+Leaking bit 83: 
+Leaking bit 84: +++++++
+Leaking bit 85: +++++++
+Leaking bit 86: +++++++
+Leaking bit 87: 
+Leaking bit 88: +++
+Leaking bit 89: 
+Leaking bit 90: +++++++++
+Leaking bit 91: 
+Leaking bit 92: 
+Leaking bit 93: +++++++++
+Leaking bit 94: +++++++
+Leaking bit 95: 
+Leaking bit 96: 
+Leaking bit 97: 
+Leaking bit 98: +++++++
+Leaking bit 99: 
+Leaking bit 100: +++++++
+Leaking bit 101: ++++++
+Leaking bit 102: ++++++++
+Leaking bit 103: 
+Leaking bit 104: +++++++
+Leaking bit 105: +++++++++++
+Leaking bit 106: +++++++++
+Leaking bit 107: ++++++
+Leaking bit 108: +++++
+Leaking bit 109: 
+Leaking bit 110: +++++++
+Leaking bit 111: 
+Leaking bit 112: 
+Leaking bit 113: +++++++++++
+Leaking bit 114: +++++++++
+Leaking bit 115: 
+Leaking bit 116: 
+Leaking bit 117: ++++++++
+Leaking bit 118: ++++++++
+Leaking bit 119: 
+Leaking bit 120: 
+Leaking bit 121: 
+Leaking bit 122: ++++++++
+Leaking bit 123: ++++++
+Leaking bit 124: 
+Leaking bit 125: +++++++
+Leaking bit 126: ++++++++
+Leaking bit 127: 
+Leaking bit 128: +++
+Leaking bit 129: 
+Leaking bit 130: 
+Leaking bit 131: 
+Leaking bit 132: 
+Leaking bit 133: ++
+Leaking bit 134: ++++++
+Leaking bit 135: 
+Leaking bit 136: +++++++
+Leaking bit 137: +++++++
+Leaking bit 138: ++++++++++
+Leaking bit 139: 
+Leaking bit 140: 
+Leaking bit 141: ++++++++
+Leaking bit 142: ++++++++
+Leaking bit 143: 
+Leaking bit 144: 
